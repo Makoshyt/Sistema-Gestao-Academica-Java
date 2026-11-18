@@ -4,20 +4,6 @@ Sobre o projeto
 O AcadFlow é uma aplicação Java de terminal destinada a simular operações acadêmicas: cadastro de cursos, matrícula de alunos, cadastro de disciplinas e gerenciamento de filas de espera quando uma disciplina atinge sua capacidade. O objetivo é demonstrar a integração de estruturas de dados implementadas manualmente.
 Estado do projeto: implementação educacional. As funcionalidades abaixo descrevem o código planejado/desenvolvido durante a atividade; o grupo deve compilar, executar e registrar os resultados dos testes no próprio repositório antes da entrega.
 
-Equipe
-- Integrante 1: [NOME] — [responsabilidade]
-- Integrante 2: [NOME] — [responsabilidade]
-- Integrante 3: [NOME, se houver] — [responsabilidade]
-- Integrante 4: [NOME, se houver] — [responsabilidade]
-Professora: Karina Leite
-Disciplina: Estrutura de Dados 2026.2
-Estruturas de dados implementadas
-Estrutura	Papel no sistema	Operações
-Árvore Binária de Busca (ABB)	Organiza os cursos pelo código	Inserção, busca, remoção e percursos em ordem, pré-ordem e pós-ordem
-Lista encadeada simples	Armazena alunos de cada curso e matriculados em disciplinas	Adicionar, buscar, remover, listar e contar
-Fila encadeada (FIFO)	Organiza a espera por vagas em disciplinas	Adicionar, buscar, remover primeiro, remover por matrícula, listar e contar
-
-
 As estruturas são implementadas por nós e referências, sem Java Collections como ArrayList, LinkedList ou Queue.
 Funcionalidades do menu
 1. Cadastrar curso
